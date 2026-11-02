@@ -1,2 +1,1 @@
-# NexWale-
-Dropshipping platform project in USA 
+# NexWale online marketplace.
